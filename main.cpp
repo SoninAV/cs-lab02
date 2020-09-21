@@ -16,5 +16,11 @@ int main()
      }
      if (b>a){
       cout << "MAX = " << b;
+   if (a<b){
+      cout << "min = " << a;
      }
+     if (b<a){
+      cout << "min = " << b;
+     }
+}
 }
