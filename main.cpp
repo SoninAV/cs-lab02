@@ -22,5 +22,5 @@ int main()
      if (b<a){
       cout << "min = " << b;
      }
-}
+}//qw
 }
